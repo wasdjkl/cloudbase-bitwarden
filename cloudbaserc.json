@@ -10,7 +10,7 @@
           "serviceName": "bitwarden",
           "servicePath": "/bitwarden",
           "uploadType": "image",
-          "containerPort": 800,
+          "containerPort": 80,
           "imageInfo": {
             "imageUrl": "bitwardenrs/server:1.19.0-alpine"
           },
